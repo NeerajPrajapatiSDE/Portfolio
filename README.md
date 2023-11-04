@@ -1,47 +1,45 @@
-# Portfolio Website - Neeraj Prajapati
+# Neeraj Prajapati's Portfolio
 
-This is my personal portfolio website, showcasing my skills, projects, and information about me as a software developer.
+This is my personal portfolio website, showcasing my skills, projects, and contact information. It provides an overview of who I am, my skills, and the projects I've worked on. 
 
 ## Table of Contents
 
-- [Description](#description)
-- [Technologies Used](#technologies-used)
+- [Introduction](#introduction)
+- [Skills](#skills)
 - [Projects](#projects)
 - [About Me](#about-me)
 - [Contact Information](#contact-information)
 
-## Description
+## Introduction
 
-My portfolio website is a platform where I present my skills, projects, and a bit about myself. It is designed to provide visitors with information about my background, skills, and the projects I have worked on.
+Hello! I'm Neeraj Prajapati, a software engineer passionate about coding and building innovative solutions. This portfolio website serves as a digital representation of my work and experience.
 
-## Technologies Used
+## Skills
 
-- HTML
-- CSS
-- JavaScript
+I have a strong foundation in several programming languages, including C++, Java, Python, and SQL. I am also well-versed in data structures and algorithms, and I am continuously expanding my knowledge.
 
 ## Projects
 
-I have included several projects in my portfolio, including:
+I have completed various projects, including:
+- [Menu Driven Banking System](https://github.com/NeerajPrajapatiSDE/Banking-System.git) (Python)
+- [ATM Services](https://github.com/NeerajPrajapatiSDE/ATM-System.git) (Java)
+- [Diabetes Prediction](https://github.com/NeerajPrajapatiSDE/Diabetes-Prediction-Project.git) (Machine Learning)
+- [Mobile Phone Price Prediction System](https://github.com/NeerajPrajapatiSDE/Mobile-Phone-Price-prediction-System.git) (Data Analysis)
+- [Music Store Database Analysis](https://github.com/NeerajPrajapatiSDE/Music-Store-Database-Analysis.git) (SQL)
 
-- [Menu Driven Banking System](https://github.com/NeerajPrajapatiSDE/Banking-System.git)
-- [ATM Services](https://github.com/NeerajPrajapatiSDE/ATM-System.git)
-- [Diabetes Prediction](https://github.com/NeerajPrajapatiSDE/Diabetes-Prediction-Project.git)
-- [Mobile Phone Price Prediction System](https://github.com/NeerajPrajapatiSDE/Mobile-Phone-Price-prediction-System.git)
-- [Music Store Database Analysis](https://github.com/NeerajPrajapatiSDE/Music-Store-Database-Analysis.git)
-
-These projects demonstrate my programming skills and my ability to work on a variety of software development projects.
+These projects reflect my expertise in various programming languages and problem-solving skills.
 
 ## About Me
 
-I am Neeraj Prajapati, a software engineer with a passion for coding and creating innovative solutions. I recently completed my Bachelor of Computer Applications (BCA) from Maharshi Dayanand University (MDU) in Rohtak, India. My goal is to contribute to the ever-evolving world of technology and make a positive impact through software development.
+I recently completed my Bachelor of Computer Applications (BCA) from Maharshi Dayanand University (MDU) in Rohtak, India. I am excited to be a part of the ever-evolving technology world and contribute to its growth.
 
 ## Contact Information
 
+Feel free to reach out to me:
 - Phone: +91 756 480 2745
 - Email: neerajprajapatisde@gmail.com
 - Address: Gurugram, Haryana, India
 
-Feel free to reach out to me for any inquiries or collaborations.
+## License
 
-Website developed by Neeraj Prajapati. © 2023. All rights reserved.
+This website is developed by Neeraj Prajapati and is protected by copyright. All rights reserved.
