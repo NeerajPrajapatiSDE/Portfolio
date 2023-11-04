@@ -16,10 +16,6 @@ My portfolio website is a platform where I present my skills, projects, and a bi
 
 ## Technologies Used
 
-- c++
-- Java
-- Python
-- SQL
 - HTML
 - CSS
 - JavaScript
